@@ -1,6 +1,5 @@
-# 💫 About Me:
-I'm Aayan jha 👋<br><br>🎓 Computer Science Student<br><br>💻 Passionate about Full-Stack Web Development and Software Engineering<br><br>🚀 Skilled in Data Structures & Algorithms (DSA), C++, JavaScript, and Database Management<br><br>🌐 Built scalable projects including:<br>- Prakhar Enterprises Ticket Selling Platform<br>- Shoekers E-Commerce Website<br>- Startup Business Summit Management Platform<br><br>📚 Currently improving my problem-solving skills and exploring modern web technologies<br><br>🎯 Goal: Build impactful software solutions and contribute to innovative projects<br><br>📫 Reach me: aayanjha368@gmail.com
-
+<h1 align="center">Hi 👋, I'm Aayan Jha</h1>
+<h3 align="center">Full-Stack Developer | DSA Enthusiast | Computer Science Student</h3>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aaya_njha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aayan-jha-a053b7349/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jha_aayan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aayanjha368@gmail.com) 
