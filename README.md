@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayan Jha</h1>
 <h3 align="center">Full-Stack Developer | DSA Enthusiast | Computer Science Student</h3>
 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aaya_njha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aayan-jha-a053b7349/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jha_aayan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aayanjha368@gmail.com) 
 
